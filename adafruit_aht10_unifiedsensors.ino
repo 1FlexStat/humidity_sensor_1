@@ -1,4 +1,4 @@
-// просто коментарий
+
 #include <Adafruit_AHT10.h>
 
 #define ATH10 ;
