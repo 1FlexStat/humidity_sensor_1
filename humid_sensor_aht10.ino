@@ -1,3 +1,4 @@
+#добавмили в девбранч ноывй код
 #include <Adafruit_AHT10.h>
 
 Adafruit_AHT10 aht;
